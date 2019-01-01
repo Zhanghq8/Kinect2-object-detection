@@ -1,6 +1,6 @@
 # Kinect2-object-detection   
 ## Maintainer
-[Hanqning Zhang] <<hzhang8@wpi.edu>>, WPI   
+- [Hanqning Zhang] <<hzhang8@wpi.edu>>, WPI   
 *Note:* This project was based on [Thiemo Wiedemeyer]'s work:(https://github.com/code-iai/iai_kinect2).   
 
 ## Dependencies
@@ -17,3 +17,7 @@
 
 2.Object detection by cloud filtering
 - [pose_cloud.cpp] this node is for detecting and getting the 3d pose of the object.
+
+## Screenshots
+
+Here are some screenshots of the results for this project:
