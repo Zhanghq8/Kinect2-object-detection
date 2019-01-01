@@ -21,4 +21,4 @@
 ## Screenshots
 
 Here are some screenshots of the results for this project:   
-![pose_cloud image](https://drive.google.com/drive/folders/15lens8JTiEQ_d_GHNE3dtN9cSO0iVGQe/pose_cloud.png)
+![pose_cloud image](https://drive.google.com/drive/folders/15lens8JTiEQ_d_GHNE3dtN9cSO0iVGQe?usp=sharing)
