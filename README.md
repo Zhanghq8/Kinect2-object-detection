@@ -28,7 +28,7 @@
 - Substitute the HSV value in [pose_color.cpp] with the new one;
 - Do `catkin_make` in your workspace and then run `rosrun kinect2_viewer pose_color`.   
 
-2.For [Object detection by loud filtering]:
+3.For [Object detection by loud filtering]:
 - First substitute the depth range for your goal;
 - Do `catkin_make` in your workspace and then run `rosrun kinect2_viewer pose_cloud`.
 
