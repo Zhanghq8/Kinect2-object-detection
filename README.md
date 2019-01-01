@@ -2,6 +2,9 @@
 ## Maintainer
 - [Hanqning Zhang] <<hzhang8@wpi.edu>>, WPI   
 *Note:* This project was based on [Thiemo Wiedemeyer]'s work:(https://github.com/code-iai/iai_kinect2).   
+## Read this first
+- Follow the guideline here: (https://github.com/code-iai/iai_kinect2) to setup your Kinect2 device on ROS workspace.
+- Substitute the [KInect2_viewer] folder with this new one. 
 
 ## Dependencies
 
