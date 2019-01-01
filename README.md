@@ -22,11 +22,11 @@
 - [pose_cloud.cpp] this node is for detecting and getting the 3d pose of the object.
 
 ## Run
-1.Activate your KInect2 device by running `roslaunch kinect2_bridge kinect2_bridge.launch`.
+1.Activate your KInect2 device by running `roslaunch kinect2_bridge kinect2_bridge.launch`.   
 2.For [Object detection by color filtering]:
 - First run `rosrun kinect2_viewer color_test` to tune the HSV value to get the desired result;
 - Substitute the HSV value in [pose_color.cpp] with the new one;
-- Do `catkin_make` in your workspace and then run `rosrun kinect2_viewer pose_color`.
+- Do `catkin_make` in your workspace and then run `rosrun kinect2_viewer pose_color`.   
 2.For [Object detection by loud filtering]:
 - First substitute the depth range for your goal;
 - Do `catkin_make` in your workspace and then run `rosrun kinect2_viewer pose_cloud`.
