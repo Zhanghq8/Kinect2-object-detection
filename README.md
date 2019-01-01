@@ -33,5 +33,7 @@
 
 ## Screenshots
 
-Here are some screenshots of the results for this project:   
+Here are some screenshots of the results for this project:    
+- For [Object detection by color filtering]:
+- For [Object detection by cloud filtering]:   
 ![pose_cloud image](https://github.com/Zhanghq8/Kinect2-object-detection/blob/master/pose_cloud.png)
